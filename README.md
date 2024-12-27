@@ -1,35 +1,41 @@
-# my-app
+# Recreate Web Project
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a recreation of the website (https://isa-charity.webflow.io) built using Vue 3, GSAP, and SASS. The goal of this project is to provide an interactive and responsive user experience with an appealing design.
 
-## Recommended IDE Setup
+## System Requirements
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Before you begin, ensure you have the following software installed on your system:
 
-## Customize configuration
+- [Node.js](https://nodejs.org/) (version 18 or higher)
+- [npm](https://www.npmjs.com/) (usually installed alongside Node.js)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Installation Steps
 
-## Project Setup
+Follow these steps to install and set up this project in your local environment:
 
-```sh
-npm install
-```
+1. **Clone this repository:**
 
-### Compile and Hot-Reload for Development
+   ```bash
+   git clone https://github.com/PanduWahyudi/Recreate-Web.git
 
-```sh
-npm run dev
-```
+   ```
 
-### Compile and Minify for Production
+2. **Change Directory:**
 
-```sh
-npm run build
-```
+   ```bash
+   cd Recreate-Web
 
-### Lint with [ESLint](https://eslint.org/)
+   ```
 
-```sh
-npm run lint
-```
+3. **Install Dependencies:**
+
+   ```bash
+   npm install
+
+   ```
+
+4. **Run Project:**
+
+   ```bash
+   npm run dev
+   ```
